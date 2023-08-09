@@ -7,4 +7,8 @@ Simple but functioning websites using JavaScript, HTML and CSS.
 ## Button Ripple Effect
 ![image](https://github.com/ioannaratayova/JS_practice/assets/117192715/8d5e65c2-7d77-466d-8892-7a9429b2a4ce)
 
+## Multiplication App
+<img width="1133" alt="image" src="https://github.com/ioannaratayova/JS_practice/assets/117192715/731adf44-bb00-4a77-afec-01bb49cadd65">
 
+## Random Color Generator
+<img width="1257" alt="image" src="https://github.com/ioannaratayova/JS_practice/assets/117192715/5260cf0e-df7e-4367-ba44-2439fe901e3f">
