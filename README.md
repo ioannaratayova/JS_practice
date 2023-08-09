@@ -10,3 +10,5 @@ Simple but functioning websites using JavaScript, HTML and CSS.
 ## Multiplication App
 <img width="1133" alt="image" src="https://github.com/ioannaratayova/JS_practice/assets/117192715/731adf44-bb00-4a77-afec-01bb49cadd65">
 
+## Random Color Generator
+<img width="1257" alt="image" src="https://github.com/ioannaratayova/JS_practice/assets/117192715/5260cf0e-df7e-4367-ba44-2439fe901e3f">
