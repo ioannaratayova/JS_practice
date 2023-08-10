@@ -12,3 +12,6 @@ Simple but functioning websites using JavaScript, HTML and CSS.
 
 ## Random Color Generator
 <img width="1257" alt="image" src="https://github.com/ioannaratayova/JS_practice/assets/117192715/5260cf0e-df7e-4367-ba44-2439fe901e3f">
+
+## Real-time Character Counter
+<img width="1214" alt="image" src="https://github.com/ioannaratayova/JS_practice/assets/117192715/2ac169ad-a330-409a-87d9-d3490e7c9e86">
