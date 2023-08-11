@@ -15,3 +15,6 @@ Simple but functioning websites using JavaScript, HTML and CSS.
 
 ## Real-time Character Counter
 <img width="1214" alt="image" src="https://github.com/ioannaratayova/JS_practice/assets/117192715/2ac169ad-a330-409a-87d9-d3490e7c9e86">
+
+## Sticky Navbar 
+<img width="1256" alt="image" src="https://github.com/ioannaratayova/JS_practice/assets/117192715/9360cdf8-883f-4214-b934-6be020fc176a">
